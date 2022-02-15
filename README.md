@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
 ~/fedeviotti:~$ whoami
 
 👨🏻‍💻 Federico Viotti
@@ -23,3 +24,4 @@ Here are some ideas to get you started:
 🌱 Learning Clean Code & Clean Coder Enthusiast
 🎮 Gamer
 🏍 Motor Sports Lover
+```
