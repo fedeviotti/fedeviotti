@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Clean Code
+~/fedeviotti:~$ whoami
+
+👨🏻‍💻 Federico Viotti
+🇮🇹 Italian
+🖥 Software Developer @ Extendi
+🌱 Learning Clean Code & Clean Coder Enthusiast
+🎮 Gamer
+🏍 Motor Sports Lover
