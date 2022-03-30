@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 Federico Viotti
 🇮🇹 Italian
-🖥 Software Developer @ Extendi
-🌱 Learning Clean Code & Clean Coder Enthusiast
+🖥 Software Developer @ Young Platform
+🌱 Clean Coder Enthusiast
 🎮 Gamer
 🏍 Motor Sports Lover
 ```
