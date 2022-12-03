@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 👨🏻‍💻 Federico Viotti
 🇮🇹 Italian
 🖥 Software Developer @ Young Platform
-🌱 Clean Coder Enthusiast
 🎮 Gamer
-🏍 Motor Sports Lover
+🏍 Biker
+🏎 Motor Sports Lover
+🤓 Nerd
 ```
