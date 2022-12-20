@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 🎮 Gamer
 🏍 Biker
 🏎 Motor Sports Lover
-🤓 Nerd
 ```
